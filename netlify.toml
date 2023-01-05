@@ -1,0 +1,6 @@
+[functions]
+directory = "functions"
+
+[dev]
+autoLaunch = false
+

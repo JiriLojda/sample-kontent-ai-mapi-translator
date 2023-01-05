@@ -1,0 +1,8 @@
+# Local Netlify folder
+.netlify
+
+# IDE
+.idea
+
+# npm
+node_modules
